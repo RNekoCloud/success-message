@@ -20,6 +20,7 @@ export const Success = () => {
             <Information>
                <Greeting>Selamat Datang di CV Zaman Now</Greeting>
                <Text>Berhasil aktivasi akun</Text>
+               <Text>Tekan tombol di bawah untuk kembali ke menu Sign In</Text>
                <Button>Kembali ke halaman login</Button>
             </Information>
          </Wrapper>

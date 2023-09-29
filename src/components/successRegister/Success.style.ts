@@ -34,7 +34,8 @@ display: flex;
 flex-direction: column;
 `;
 
-export const Greeting = styled.div`
+export const Greeting = styled.h1`
+margin: 0 0 1rem 0;
 font-weight: 600;
 text-align: center;
 font-size: 1.5rem;
@@ -44,12 +45,12 @@ font-family: sans-serif;
 
 export const Text = styled.p`
 color: #1F2937;
-margin: 1rem 0;
 font-family: sans-serif;
 text-align: center;
 `;
 
 export const Button = styled.button`
+margin: 1rem 0 0 0;
 border:none;
 height: 3rem;
 background-color: #FFA824;
