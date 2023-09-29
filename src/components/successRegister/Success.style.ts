@@ -50,7 +50,7 @@ text-align: center;
 `;
 
 export const Button = styled.button`
-margin: 1rem 0 0 0;
+margin: 1.9rem 0 0 0;
 border:none;
 height: 3rem;
 background-color: #FFA824;
